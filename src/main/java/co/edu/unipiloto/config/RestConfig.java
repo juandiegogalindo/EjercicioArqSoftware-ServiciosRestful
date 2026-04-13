@@ -12,6 +12,6 @@ import javax.ws.rs.core.Application;
  *
  * @author jdgal
  */
-@ApplicationPath("api")
+@ApplicationPath("/api")
 public class RestConfig extends Application {
 }
